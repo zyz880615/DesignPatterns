@@ -8,9 +8,9 @@ package com.design.templateMethod.WOW;
 public class Play {
 
 	public static void main(String[] args) {
-		AbstarctStudy concreteRetributionPaladin = new ConcreteRetributionPaladin();
+		AbstractStudy concreteRetributionPaladin = new ConcreteRetributionPaladin();
 		concreteRetributionPaladin.playProcess();
-		AbstarctStudy concreteHolyPaladin = new ConcreteHolyPaladin();
+		AbstractStudy concreteHolyPaladin = new ConcreteHolyPaladin();
 		concreteHolyPaladin.playProcess();
 	}
 

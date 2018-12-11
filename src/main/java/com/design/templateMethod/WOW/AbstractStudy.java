@@ -5,7 +5,7 @@ package com.design.templateMethod.WOW;
  *
  * @author zhangyz
  */
-public abstract class AbstarctStudy {
+public abstract class AbstractStudy {
 
 	/**
 	 * 第一步

@@ -5,7 +5,7 @@ package com.design.templateMethod.WOW;
  *
  * @author zhangyz
  */
-public class ConcreteHolyPaladin extends AbstarctStudy {
+public class ConcreteHolyPaladin extends AbstractStudy {
 
 	@Override
 	void videosOfDungeon() {
